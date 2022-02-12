@@ -1,6 +1,6 @@
 ## 👋 Hii, I'm Pedro!
 
-I’m a Computer Technician 🎓 certified by [ETEC Horácio Algusto da Silveira](https://etechoracio.com.br/has/), and bachelor's student in Computer Science 📚 at [Universidade Tecnológica Federal do Paraná (UTFPR)](https://www.utfpr.edu.br/).
+I’m a Computer Technician 🎓 certified by [ETEC Horácio Algusto da Silveira](https://etechoracio.com.br/has/), and bachelor's degre student in Computer Science 📚 at [Universidade Tecnológica Federal do Paraná (UTFPR)](https://www.utfpr.edu.br/).
 
 ### I'm Learning...
 
