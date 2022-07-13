@@ -1,0 +1,4 @@
+# Basic .gitattributes for Markdown files
+
+*.md linguist-detectable=true
+*.md linguist-language=Markdown
