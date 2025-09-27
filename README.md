@@ -6,12 +6,14 @@
 
 ## 🚀 About Me
 
-```yaml
-name: Pedro Sawczuk
-location: Portugal 🇵🇹
-role: Software Engineer
-currently_learning: Nix
-contact: pedrojosawczuk@gmail.com
+```json
+{
+  "name": "Pedro Sawczuk",
+  "location": "Portugal 🇵🇹",
+  "role": "Software Engineer",
+  "currently_learning": "Nix",
+  "contact": "pedrojosawczuk@gmail.com"
+}
 ```
 
 ## 🛠️ Tech Stack
