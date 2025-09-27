@@ -1,10 +1,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Pedro%20Sawczuk&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=white" />
-  
+
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+Developer;DevOps+Enthusiast" alt="Typing SVG" />
 </div>
-
----
 
 ## 🚀 About Me
 
@@ -15,8 +13,6 @@ role: Software Engineer
 currently_learning: Nix
 contact: pedrojosawczuk@gmail.com
 ```
-
----
 
 ## 🛠️ Tech Stack
 
@@ -77,7 +73,18 @@ contact: pedrojosawczuk@gmail.com
 
 </div>
 
----
+
+## 🎓 Education
+
+<div align="center">
+
+| 🎓 **Degree** | 🏫 **Institution** | 🌍 **Location** |
+|---------------|-------------------|-----------------|
+| **Master in Software Engineering** | Polytechnic Institute of Setúbal | Portugal 🇵🇹 |
+| **Bachelor's in Computer Science** | Federal University of Technology – Paraná | Brazil 🇧🇷 |
+| **Computer Technician** | Technical School Horácio Algusto da Silveira | Brazil 🇧🇷 |
+
+</div>
 
 ## 🤝 Connect with Me
 
@@ -97,8 +104,6 @@ contact: pedrojosawczuk@gmail.com
 </a>
 
 </div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
